@@ -4,7 +4,7 @@
 <p align="center">
 Here we'll post instructions for the PHMN claim. <br/> Здесь мы будем публиковать все инструкции по клейму PHMN
 
-## ✨**Instruction for the English speakers**
-## ✨**Инструкция для Русскоговорящих**
+## ✨[**Instruction for the English speakers**](https://github.com/Validator-POSTHUMAN/PHMN-Claim/blob/main/Eng.md)
+## ✨[**Инструкция для Русскоговорящих**](https://github.com/Validator-POSTHUMAN/PHMN-Claim/blob/main/Ru.md)
 
 ### **Хотите добавить перевод? Кидайте PR!**
