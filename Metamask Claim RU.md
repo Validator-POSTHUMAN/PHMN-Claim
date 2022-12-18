@@ -12,4 +12,4 @@
 ![image](https://user-images.githubusercontent.com/92199696/208287720-ae6f9cdd-f645-4077-91e4-66600eb9b4e5.png)! 
 ### Посмотреть данные контракта, состав магической транзакции и т.д. можно [здесь](https://blockscout.evmos.org/address/0xdb41965Dd2ca8214F913809C4429B18b8C50a1b0)
 ### [Вернуться к обычной инструкции](https://github.com/Validator-POSTHUMAN/PHMN-Claim/blob/main/Ru.md)
-
+### [Видеоинструкция по клейму](https://cyb.ai/ipfs/QmUZo48hnHJ8XohN3rfr9zfdd2EZKKJfWMmJf49styASM6)
