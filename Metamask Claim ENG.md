@@ -3,9 +3,9 @@
 <br/>
 # How to claim PHMN if I delegate Evmos with Memamask?
 - **Step 1.** Go to the claim webpage https://claim.posthuman.digital/metamask to connect our Keplr + Metamask wallets
-![image](https://user-images.githubusercontent.com/92199696/208287283-96902346-d5ea-4d1e-bb53-79c5c4d866e5.png) <br/>
+![image](https://user-images.githubusercontent.com/92199696/208288346-60469bcf-7f42-4c04-86a1-45ffaa4f7e67.png) <br/>
 - **Step 2.** Connect your wallets, check your addresses once again and click on the *Send Magic Tx* button.
-![image](https://user-images.githubusercontent.com/92199696/208287442-bf5aa37d-6fc1-4142-b947-fad449b4f51c.png) <br/> 
+![image](https://user-images.githubusercontent.com/92199696/208288656-c7f959c4-5ebd-4502-b177-3cbfe2775b09.png) <br/> 
 - **Step 3.** Next, you should approve transaction in your Metamask
 ![image](https://user-images.githubusercontent.com/92199696/208287621-6ad947f6-fb10-47fe-87c3-93c22bea5408.png)
 ## Congratulations! Magic tx was successfully sent!😉
