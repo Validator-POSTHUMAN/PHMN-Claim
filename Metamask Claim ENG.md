@@ -12,5 +12,5 @@
 ![image](https://user-images.githubusercontent.com/92199696/208287720-ae6f9cdd-f645-4077-91e4-66600eb9b4e5.png)! 
 ### Check the contract data, magic tx details and so on you could [here](https://blockscout.evmos.org/address/0xdb41965Dd2ca8214F913809C4429B18b8C50a1b0)
 ### [Return to the main instruction](https://github.com/Validator-POSTHUMAN/PHMN-Claim/blob/main/Eng.md)
-
+### [Simple Video Tutorial](https://cyb.ai/ipfs/Qmct8uTdLZdMkU4WGP6CgJwgryc6GWqej2wPBgBDRLwYGq)
 
