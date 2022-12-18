@@ -27,3 +27,7 @@ Here we'll post instructions for the PHMN claim. <br/> Здесь мы буде�
 - мешают возможности редактировать документацию совместно.
 
 **Github - решает эту проблему!** <br/> Если вы хотите добавить перевод, поправить орфографию - вы можете предложить изменения! 
+
+## 🦊[**PHMN Claim instruction for Evmos delegators with Metamask**](https://github.com/Validator-POSTHUMAN/PHMN-Claim/blob/main/Metamask%20Claim%20ENG.md)
+
+## 🦊[**Инструкция по клейму PHMN для делегаторов Evmos через Metamask**](https://github.com/Validator-POSTHUMAN/PHMN-Claim/blob/main/Metamask%20Claim%20RU.md)
