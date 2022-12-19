@@ -6,7 +6,7 @@ Here we'll post instructions for the PHMN claim. <br/> Здесь мы буде�
 
 ## ✨[**Instruction for the English speakers**](https://github.com/Validator-POSTHUMAN/PHMN-Claim/blob/main/Eng.md)
 
-***Why Github? We need to shed the light on it. Step by step we'll move away from using Medium and same platforms becasue of:***:
+***Why Github? We need to shed the light on it. Step by step we'll move away from using Medium and same platforms because of***:
 - first of all it requires different subscriptions 
 - it needs user/account creation
 - articles might be blocked by the decision of the platform
