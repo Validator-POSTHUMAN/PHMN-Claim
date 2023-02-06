@@ -57,6 +57,6 @@ Friends, algorytm is the same! <br/>
 ## Key notes:
 - If you alredy sent magic tx in Q3 and you havent' got new delegations to POSTHUMAN in any chain you might not send magic tx once again. But If you started to delegate in Evmos (for example) you need to send magic TX in Evmos chain. 
 - No specific actions requiered for the DAS staking. PHMN will be distributed to your JUNO addresses after the end of claim period (~2 weeks)
-- For the claim you have 2 weeks as always. You could check the countdown [here](https://claim.posthuman.digital/).
+- For the claim you have 1week time window .You could check the countdown [here](https://claim.posthuman.digital/).
 - Unclaimded PHMN will be moved to DAS Treasury. 
 - Feel free to ask questions (if any) in [POSTHUMAN](https://t.me/posthumanchat) Telegram Community! 
