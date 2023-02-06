@@ -7,7 +7,7 @@
 - [PHMN Tokenomics](https://antropocosmist.medium.com/phmn-tokenomics-rus-67e9eba6bd94)
 - [Ask some questions in Telegram (If they would be)](https://t.me/posthumanchat)
 - [POSTHUMAN Discord](https://discord.gg/CzpvRKN9tM)
-- [Buy PHMN JunoSwap](https://junoswap.com/pools/JUNO-PHMN)
+- [Buy PHMN WYND DEX](https://app.wynddao.com/swap)
 - [Buy PHMN Osmosis](https://frontier.osmosis.zone/)
 - [DAS (Hold PHMN, Validator governance)](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg)
 

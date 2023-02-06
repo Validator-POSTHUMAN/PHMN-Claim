@@ -7,7 +7,7 @@
 - [Токеномика](https://antropocosmist.medium.com/phmn-tokenomics-rus-67e9eba6bd94)
 - [Задать вопросы по клейму в Telegram (КриптоБаза)](https://t.me/Crypto_Base_Chat)
 - [POSTHUMAN Discord](https://discord.gg/CzpvRKN9tM)
-- [Купить PHMN JunoSwap](https://junoswap.com/pools/JUNO-PHMN)
+- [Купить PHMN WYND DEX](https://app.wynddao.com/swap)
 - [Купить PHMN Osmosis](https://frontier.osmosis.zone/)
 - [DAS (Удержание PHMN, управление валидатором)](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg)
 
