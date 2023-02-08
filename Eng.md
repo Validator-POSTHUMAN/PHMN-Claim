@@ -49,7 +49,15 @@ If you're delegating in the one or several of these networks you need to send ma
 
 ### Sending magic tx for Evmos: <br/>
 Friends, algorytm is the same! <br/>
-![image](https://user-images.githubusercontent.com/92199696/207301102-9977caae-3ee5-407f-930d-7525b590b9b8.png)
+![image](https://user-images.githubusercontent.com/92199696/207301102-9977caae-3ee5-407f-930d-7525b590b9b8.png)<br/>
+
+## ***Address for sending magic tx (check the address actuality [here](https://claim.posthuman.digital/)***
+
+Actual one for this stakedrop:
+```
+evmos1vlrmcn7v8pw9pdzs4q3pdcy68c0xqlvrd0ge0k
+```
+
 ![image](https://user-images.githubusercontent.com/92199696/207301208-3f7345e5-4fa5-47a3-a81b-e013c62a239e.png)<br/>
 **Sending on magic tx address 0.000001 EVMOS with your Juno address in МЕМО!** <br/>
 ![image](https://user-images.githubusercontent.com/92199696/207301884-3e952987-ed72-440b-a0a2-adbb241fe7f9.png)
