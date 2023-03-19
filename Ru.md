@@ -54,7 +54,7 @@
 
 Актуальный адрес для стейкдропа Q1 1/2 для отправки магической транзакции для Evmos:
 ```
-evmos1vlrmcn7v8pw9pdzs4q3pdcy68c0xqlvrd0ge0k
+
 ```
 
 ![image](https://user-images.githubusercontent.com/92199696/207301208-3f7345e5-4fa5-47a3-a81b-e013c62a239e.png)<br/>
