@@ -48,14 +48,23 @@ If you're delegating in the one or several of these networks you need to send ma
 ![image](https://user-images.githubusercontent.com/92199696/207295072-a1ea4815-2c02-43f7-934e-684098530597.png) ![image](https://user-images.githubusercontent.com/92199696/207295226-c5d5b64a-99b4-44ae-8077-b0529373e302.png)
 
 ### Sending magic tx for Evmos and Injective: <br/>
+## ▶️[Video Instruction](https://www.youtube.com/watch?v=Wkm_5D7_s-U&ab_channel=CosmosEcosystemMoments)
+<br/>
+
 Friends, algorytm is the same! <br/>
+
 ![image](https://user-images.githubusercontent.com/92199696/207301102-9977caae-3ee5-407f-930d-7525b590b9b8.png)<br/>
 
 ## ***Address for sending magic tx (check the address actuality [here](https://claim.posthuman.digital/)***
 
-Actual one for this stakedrop:
+Actual magic tx address Q1 2/2 for Evmos:
+```
+evmos12759fwy8lchlvmetl6888c5s70gqtdxw8p0edf
 ```
 
+Actual magic tx address Q1 2/2 for Injective:
+```
+inj12759fwy8lchlvmetl6888c5s70gqtdxw0ffn9e
 ```
 ## Injective magic tx procedure - same methodology like in Evmos!  
 
