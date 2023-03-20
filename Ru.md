@@ -48,13 +48,22 @@
 ![image](https://user-images.githubusercontent.com/92199696/207295072-a1ea4815-2c02-43f7-934e-684098530597.png) ![image](https://user-images.githubusercontent.com/92199696/207295226-c5d5b64a-99b4-44ae-8077-b0529373e302.png)
 
 ### Отправляем магическую транзакцию для Evmos и Injective: <br/>
+
+## ▶️[Видео-инструкция](https://www.youtube.com/watch?v=Wkm_5D7_s-U&ab_channel=CosmosEcosystemMoments)
+<br/>
+
 Друзья, всё то же самое, только всё совсем вручную! <br/>
 ![image](https://user-images.githubusercontent.com/92199696/207301102-9977caae-3ee5-407f-930d-7525b590b9b8.png)<br/>
 ## ***Адрес для отправки магической транзакции (Адрес может измениться. Проверяйте актуальность адреса [здесь](https://claim.posthuman.digital/)***
 
-Актуальный адрес для стейкдропа Q1 1/2 для отправки магической транзакции для Evmos:
+Актуальный адрес для стейкдропа Q1 2/2 для отправки магической транзакции для Evmos:
+```
+evmos12759fwy8lchlvmetl6888c5s70gqtdxw8p0edf
 ```
 
+Актуальный адрес для стейкдропа Q1 2/2 для отправки магической транзакции для Injective:
+```
+inj12759fwy8lchlvmetl6888c5s70gqtdxw0ffn9e
 ```
 
 ![image](https://user-images.githubusercontent.com/92199696/207301208-3f7345e5-4fa5-47a3-a81b-e013c62a239e.png)<br/>
