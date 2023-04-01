@@ -58,12 +58,12 @@
 
 Актуальный адрес для стейкдропа Q1 2/2 для отправки магической транзакции для Evmos:
 ```
-evmos12759fwy8lchlvmetl6888c5s70gqtdxw8p0edf
+
 ```
 
 Актуальный адрес для стейкдропа Q1 2/2 для отправки магической транзакции для Injective:
 ```
-inj12759fwy8lchlvmetl6888c5s70gqtdxw0ffn9e
+
 ```
 
 ![image](https://user-images.githubusercontent.com/92199696/207301208-3f7345e5-4fa5-47a3-a81b-e013c62a239e.png)<br/>
