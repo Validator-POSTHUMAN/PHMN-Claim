@@ -59,12 +59,12 @@ Friends, algorytm is the same! <br/>
 
 Actual magic tx address Q1 2/2 for Evmos:
 ```
-evmos12759fwy8lchlvmetl6888c5s70gqtdxw8p0edf
+
 ```
 
 Actual magic tx address Q1 2/2 for Injective:
 ```
-inj12759fwy8lchlvmetl6888c5s70gqtdxw0ffn9e
+
 ```
 ## Injective magic tx procedure - same methodology like in Evmos!  
 
