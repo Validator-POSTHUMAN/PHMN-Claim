@@ -1,3 +1,24 @@
+# Deprecated PHMN Claim Guide
+
+This guide is archived and describes the old PHMN StakeDrop claim flow for the
+previous Juno CW20 PHMN token.
+
+The old PHMN token is deprecated and no longer represents the active POSTHUMAN
+PHMN governance token.
+
+Current PHMN migration and distribution references:
+
+- New PHMN migration rules and snapshot data: https://github.com/Validator-POSTHUMAN/new-phmn
+- Official PHMN migration statement: https://github.com/Validator-POSTHUMAN/new-dao-structure/blob/main/docs/official-phmn-migration-statement.md
+- New PHMN TokenFactory denom: `factory/cosmos146s5j3t7gh2g37ywm47dp8avhesu2htvjjaxq7z55e7xj0rq0k8q5qnjjy/PHMN`
+- New POSTHUMAN DAS: https://daodao.zone/dao/cosmos1lj6knrgumqr5a9jxmkqeag476gmzgn24mv0w3548tyw6a5ryr7ms6xl599
+
+The instructions below are kept only as historical documentation. Do not use
+the old Juno CW20 contract, old Juno DAS, or old claim procedure as current
+PHMN guidance.
+
+---
+
 ![1v (1)](https://user-images.githubusercontent.com/92199696/207265684-027d7e5e-929d-4133-b3ef-67055ff90022.png)
 # How to claim PHMN?
 

@@ -1,3 +1,24 @@
+# Устаревший гайд по PHMN Claim
+
+Этот гайд архивный. Он описывает старый StakeDrop claim flow для прежнего PHMN
+токена в формате Juno CW20.
+
+Старый PHMN токен deprecated и больше не является актуальным governance-токеном
+POSTHUMAN.
+
+Актуальные ссылки по миграции PHMN:
+
+- правила миграции и snapshot data: https://github.com/Validator-POSTHUMAN/new-phmn
+- официальный migration statement: https://github.com/Validator-POSTHUMAN/new-dao-structure/blob/main/docs/official-phmn-migration-statement.md
+- новый PHMN TokenFactory denom: `factory/cosmos146s5j3t7gh2g37ywm47dp8avhesu2htvjjaxq7z55e7xj0rq0k8q5qnjjy/PHMN`
+- новый POSTHUMAN DAS: https://daodao.zone/dao/cosmos1lj6knrgumqr5a9jxmkqeag476gmzgn24mv0w3548tyw6a5ryr7ms6xl599
+
+Инструкция ниже оставлена только как исторический архив. Не используйте старый
+Juno CW20 contract, старый Juno DAS и старый claim process как актуальный гайд
+по PHMN.
+
+---
+
 ![1v (2)](https://user-images.githubusercontent.com/92199696/207265772-c7b055f3-7a5c-43d6-826b-e55684971669.png)
 # Как заклеймить PHMN?
 

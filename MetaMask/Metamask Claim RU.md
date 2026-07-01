@@ -1,3 +1,16 @@
+# Устаревший гайд по PHMN MetaMask Claim
+
+Этот гайд архивный. Он описывает старый StakeDrop claim flow для прежнего PHMN
+токена в формате Juno CW20. Не используйте его как актуальную инструкцию по
+PHMN.
+
+Актуальные ссылки по миграции и распределению PHMN:
+
+- https://github.com/Validator-POSTHUMAN/new-phmn
+- https://github.com/Validator-POSTHUMAN/new-dao-structure/blob/main/docs/official-phmn-migration-statement.md
+
+---
+
 ![1v (3)](https://user-images.githubusercontent.com/92199696/208287099-4ec6e92b-1156-408e-a119-082023a1f060.png)
  **Эта инструкция предназначена исключительно для делегаторов Evmos через Metamask. Остальные инструкции могут быть найдены [здесь](https://github.com/Validator-POSTHUMAN/PHMN-Claim)**
 <br/>

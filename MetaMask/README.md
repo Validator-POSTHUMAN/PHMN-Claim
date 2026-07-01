@@ -1,3 +1,15 @@
+# Deprecated PHMN MetaMask Claim Guide
+
+This guide is archived and describes the old PHMN StakeDrop claim flow for the
+previous Juno CW20 PHMN token. Do not use it as current PHMN guidance.
+
+Current PHMN migration and distribution references:
+
+- https://github.com/Validator-POSTHUMAN/new-phmn
+- https://github.com/Validator-POSTHUMAN/new-dao-structure/blob/main/docs/official-phmn-migration-statement.md
+
+---
+
 ![1v (4)](https://user-images.githubusercontent.com/92199696/208287940-f712b804-2177-4421-883f-2f0501cf0936.png)
  **This instruction only for those who delegate Evmos with MemaMask. Other instructions and links could be found [here](https://github.com/Validator-POSTHUMAN/PHMN-Claim)**
 <br/>
@@ -13,4 +25,3 @@
 ### Check the contract data, magic tx details and so on you could [here](https://blockscout.evmos.org/address/0xdb41965Dd2ca8214F913809C4429B18b8C50a1b0)
 ### [Return to the main instruction](https://github.com/Validator-POSTHUMAN/PHMN-Claim/blob/main/Eng.md)
 ### [Simple Video Tutorial](https://cyb.ai/ipfs/Qmct8uTdLZdMkU4WGP6CgJwgryc6GWqej2wPBgBDRLwYGq)
-
